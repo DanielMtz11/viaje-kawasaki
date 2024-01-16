@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="10MON" Folio="1636053240115043743310" Fecha="2024-01-14T21:37:43" Exportacion="01" Sello="ga75FEr01NFwY5W73D2+A2OChu/KdlOI/dMwaowFzWUOETw3sJXrDzwb/k2j0tgM4+8XbthzrAcj7xrn/SO+x2axl1VHVQ7oPkpUuscrKYW4/SxHGCnKBOWwaf1gXlSAWO4GeQSLTKV6iypYEierYXSK5NLS2B5FCzFhFRlKvkUJioWN6OWVEG+dUlrYCC1H+WRP4Wg87SOKJDsS/Mqy57PFmeZlf03QKhwuLJ0WKjNiw1hVqia9IEOrwIsCouwOoE1v/QWEhEG1de2+t9v8rsDnW7rRu3XXFKmVUiwuolJQH0yLqRJOTVeZ3RlLs0HRdqz7RvFd3vGw4Xvf83nh9Q==" FormaPago="28" NoCertificado="00001000000506772672" Certificado="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" SubTotal="111.72" Moneda="MXN" Total="115.80" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="66600">
+<cfdi:Emisor Nombre="CADENA COMERCIAL OXXO" Rfc="CCO8605231N4" RegimenFiscal="623"/>
+<cfdi:Receptor Rfc="JME0304309M7" Nombre="JATCO MEXICO" UsoCFDI="G03" DomicilioFiscalReceptor="20340" RegimenFiscalReceptor="601"/>
+<cfdi:Conceptos>
+<cfdi:Concepto ClaveProdServ="50181905" NoIdentificacion="7500810014721" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="BARRITAS FRESA 2P 75G FLOW MLA BIMBO" ValorUnitario="21.30" Importe="21.30" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="23.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+<cfdi:Traslado Base="21.30" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.70"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="50181905" NoIdentificacion="7501000116430" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="BARRA DE TRIGO CON RELLENO BRAN FRUT BIMBO 58 GR BOLSA PINA" ValorUnitario="14.81" Importe="14.81" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="16.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+<cfdi:Traslado Base="14.81" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.19"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="50202304" NoIdentificacion="7501013102352" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="JUMEX 0% GUAYABA 450ML" ValorUnitario="16.90" Importe="16.90" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="16.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="50181905" NoIdentificacion="7501030424345" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="BARRA DE TRIGO Y AVENA MULTIGRANO BIMBO 34 G BOLSA:NUECES Y ALM" ValorUnitario="14.81" Importe="14.81" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="16.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+<cfdi:Traslado Base="14.81" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.19"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="50131700" NoIdentificacion="7501058610959" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="NESCAFE LATTE 330ML" ValorUnitario="23.90" Importe="23.90" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="23.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+<cfdi:Concepto ClaveProdServ="50202301" NoIdentificacion="758104000159" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="AGUA NATURAL BONAFONT 1.5 LT BOTELLA" ValorUnitario="20.00" Importe="20.00" ObjetoImp="02">
+<cfdi:Impuestos>
+<cfdi:Traslados>
+<cfdi:Traslado Base="20.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+</cfdi:Conceptos>
+<cfdi:Impuestos TotalImpuestosTrasladados="4.08">
+<cfdi:Traslados>
+<cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Base="115.8" Importe="0.00"/>
+<cfdi:Traslado Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Base="50.92" Importe="4.08"/>
+</cfdi:Traslados>
+</cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="a8b3f09f-1b90-410e-b039-41501c548231" FechaTimbrado="2024-01-14T22:37:43" RfcProvCertif="AUR100128NN3" SelloSAT="Dn6v4TkP/ix/Zimro5Yx1c5gZokvw4qnbEqdmLOZNJXBmKdFxYwukvjpudfSpwXVD/zugHcRL+NYbOQyoMNzMbwAjbam9yaDzASqDkVfm4gdphgyLzHFS9/set8ltdCDildjPlayRzb7MVMbF//oBWTGOZ3K78l7scUVq8yq7zH61VoRuysz/b2i5/WfkvYAx0oaKT4kMNC46INToWHFeRxZS3eDvaHwdnarzfMACSH5CbhjzuuNY0W0psPugYgKGWKYAnXayIz18Ds3Q4TboiwepH12jx+DywhNQjapcjnptb4e/LgrEkEMr1vCcVZWohvgxxeEeq89XECE6x+HGA==" SelloCFD="ga75FEr01NFwY5W73D2+A2OChu/KdlOI/dMwaowFzWUOETw3sJXrDzwb/k2j0tgM4+8XbthzrAcj7xrn/SO+x2axl1VHVQ7oPkpUuscrKYW4/SxHGCnKBOWwaf1gXlSAWO4GeQSLTKV6iypYEierYXSK5NLS2B5FCzFhFRlKvkUJioWN6OWVEG+dUlrYCC1H+WRP4Wg87SOKJDsS/Mqy57PFmeZlf03QKhwuLJ0WKjNiw1hVqia9IEOrwIsCouwOoE1v/QWEhEG1de2+t9v8rsDnW7rRu3XXFKmVUiwuolJQH0yLqRJOTVeZ3RlLs0HRdqz7RvFd3vGw4Xvf83nh9Q==" NoCertificadoSAT="00001000000505750848" /></cfdi:Complemento>
+<cfdi:Addenda>
+<ns:Oxxo xmlns:ns="https://www.oxxo.com/ns/addenda/oxxo/1" version="1.1">
+<ns:generales tipoDocumento="Factura"/>
+<ns:clavesDescripcion c_MetodoPago="Pago en una sola exhibición" c_RegimenFiscal="General de Ley Personas Morales" c_TipoDeComprobante="Ingreso" c_UsoCFDI="Gastos en general" e_RegimenFiscal="Opcional para Grupos de Sociedades"/>
+<ns:receptor>
+<ns:domicilioFiscalR calle="CARRETERA PANAMERICANA KM.75" ciudad="AGUASCALIENTES" codigoPostal="20340" colonia="LOS ARELLANO" estado="AGUASCALIENTES" municipio="AGUASCALIENTES" pais="MEX"/>
+</ns:receptor>
+<ns:datosTienda codigoPostal="66600" direccion="Calle Abasolo 700 Pte *Centro (50HV7) APODACA, NL" nombre="Alberto Garza Mty"/>
+<ns:id>PORTAL79995301</ns:id>
+</ns:Oxxo>
+</cfdi:Addenda>
+</cfdi:Comprobante>
